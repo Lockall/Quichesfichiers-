@@ -43,4 +43,4 @@ Oui. Toutes les communications WebRTC sont chiffrées par défaut (DTLS). Cette 
 
 `Quichefichiers` est publié sous la licence BSD 3-Clause.
 
-Un immense merci à `iblowyourdesign` pour l'illustration originale de la pizza qui a inspiré l'icône de la quiche.
+
