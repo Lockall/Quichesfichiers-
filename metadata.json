@@ -1,0 +1,5 @@
+{
+  "name": "Quichefichiers",
+  "description": "Une application web pour le partage de fichiers simple, privé et chiffré. Les fichiers sont supprimés après le premier téléchargement. Version française inspirée de Pizzafichiers.",
+  "requestFramePermissions": []
+}
